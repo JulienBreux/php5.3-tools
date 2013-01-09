@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.1.2
+
+- [*] Fix namespace
+
 ## 1.1.1
 
 - [*] Fix loader component prefixes
