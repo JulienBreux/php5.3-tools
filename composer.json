@@ -1,0 +1,21 @@
+{
+	"name": "breux/tools",
+	"type": "library",
+	"description": "Simple PHP 5.3 components",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Julien Breux",
+			"email": "julien.breux@gmail.com"
+		}
+	],
+	"require": {
+		"php": ">=5.3.3"
+	},
+	"autoload": {
+		"psr-0":
+		{
+			"Breux": "src/"
+		}
+	}
+}

@@ -1,0 +1,11 @@
+# Tools by Julien Breux <julien.breux@gmail.com>
+
+# System
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Manager
+.idea
