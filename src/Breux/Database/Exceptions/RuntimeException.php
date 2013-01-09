@@ -3,7 +3,7 @@
  * Tools by Julien Breux <julien.breux@gmail.com>
  */
 
-namespace Tools\Database\Exceptions;
+namespace Breux\Database\Exceptions;
 
 class RuntimeException extends \RuntimeException
 {
